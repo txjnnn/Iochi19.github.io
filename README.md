@@ -48,25 +48,17 @@
             line-height: 1.6;
         }
     </style>
-</head>
-<body>
-    <!-- 嵌入音效 -->
-    <audio autoplay controls>
-        <source src="https://dl18.genyoutube.online/mates/en/download?url=ZTREjvNyOeRS/FH2epvYowSfGjS8i15Sfzedb6rVHzHfgNHJb8lNu3iylGz4EpjxSUgrxZZnZKj4wFXfin/S2QJbDh042Wq5oeRArarRBhegF7BJAbmV7sIUlzbOq%2BAucDtK0dmaSFs%3D" type="audio/mpeg"> <!-- 將 '音效.mp3' 替換為你的音效文件的URL -->
-        Your browser does not support the audio element.
-    </audio>
 
-    <div class="container">
-        <h1>歡迎來到我的炫麗自我介紹網站</h1>
-        <p>我是一位網頁開發者，熱愛創建美麗的網站和應用程序。這個網站是我的個人介紹頁，你可以在這裡了解更多關於我和我的工作。</p>
-    </div>
-</body>
 </head>
 <body>
     <header>
         <h1>歡迎來到我的自我介紹網站</h1>
     </header>
-
+ <!-- 嵌入音效 -->
+    <audio autoplay controls>
+        <source src="https://dl18.genyoutube.online/mates/en/download?url=ZTREjvNyOeRS/FH2epvYowSfGjS8i15Sfzedb6rVHzHfgNHJb8lNu3iylGz4EpjxSUgrxZZnZKj4wFXfin/S2QJbDh042Wq5oeRArarRBhegF7BJAbmV7sIUlzbOq%2BAucDtK0dmaSFs%3D" type="audio/mpeg"> <!-- 將 '音效.mp3' 替換為你的音效文件的URL -->
+        Your browser does not support the audio element.
+    </audio>
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
