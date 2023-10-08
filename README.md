@@ -56,7 +56,7 @@
 
     <div class="container">
         <h2>關於我</h2>
-        <p>資工二甲 陳宥旭\n程式練習生\n練習時長兩年半\n喜歡唱、跳、RAP、籃球</p>
+        <p>資工二甲 陳宥旭<br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球</p>
 
         <h2>我的作品</h2>
         <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrquZwEYRZPNddKmzC6G-hYZjwDATA1vTbJQ&usqp=CAU" alt="圖片描述"></p>
