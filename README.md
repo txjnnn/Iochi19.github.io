@@ -65,7 +65,7 @@
             <h2>我的作品</h2>
 <div class="portfolio">
     <div class="portfolio-item">
-        <img src="https://lurl.cc/ogKZE" alt="作品1">
+        <img src="https://lurl.cc/ogKZE" alt="">
         <p>浪費一天連假不打code的下場</p>
     </div>
     
