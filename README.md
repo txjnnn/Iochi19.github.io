@@ -1,5 +1,5 @@
 # Iochi19.github.io
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,21 +51,20 @@
 </head>
 <body>
     <header>
-        <h1>歡迎來到我的自我介紹網站</h1>
+        <h1>歡迎來到我的網站</h1>
     </header>
 
     <div class="container">
         <h2>關於我</h2>
-        <p>你的自我介紹文字在這裡。你可以講述你的背景、技能、興趣和目標。</p>
+        <p>資工二甲 陳宥旭\n程式練習生\n練習時長兩年半\n喜歡唱、跳、RAP、籃球</p>
 
         <h2>我的作品</h2>
-        <p>這裡可以展示你的作品、專案或經驗。你可以使用圖片和文字來描述它們。</p>
+        <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrquZwEYRZPNddKmzC6G-hYZjwDATA1vTbJQ&usqp=CAU" alt="圖片描述"></p>
 
         <h2>聯絡我</h2>
         <div class="contact">
-            <a href="mailto:your.email@example.com">電子郵件</a>
-            <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
-            <a href="https://twitter.com/yourusername">Twitter</a>
+            <a href="mailto:danielz88920@gmail.com">電子郵件</a>
+            <a href="https://www.instagram.com/anthonyz889/">IG</a>
         </div>
     </div>
 </body>
