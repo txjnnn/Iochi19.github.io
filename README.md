@@ -69,3 +69,62 @@
     </div>
 </body>
 </html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>左右圖片</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .left-image, .right-image {
+            flex: 1;
+        }
+
+        .left-image img, .right-image img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>左右圖片示範</h1>
+    </header>
+
+    <div class="container">
+        <div class="left-image">
+            <img src="left-image.jpg" alt="左側圖片">
+        </div>
+        <div class="right-image">
+            <img src="right-image.jpg" alt="右側圖片">
+        </div>
+    </div>
+</body>
+</html>
