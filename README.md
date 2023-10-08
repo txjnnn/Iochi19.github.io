@@ -56,7 +56,7 @@
     </header>
  <!-- 嵌入音效 -->
     <audio autoplay controls>
-        <source src="https://nearbypro.www-2048.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6yp8fEU00aM%3Fsi%3DIxnl7TvPuDqDhpvY&title=SWIN+-+%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E%E3%80%8E%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E+baby+%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E+baby%E3%80%8F%E3%80%90%E5%8B%95%E6%85%8B%E6%AD%8C%E8%A9%9ELyrics%E3%80%91&id=6yp8fEU00aM&ext=mp3&totalSize=3562128&note=128k&format=128k&dd=1&ref=https%3A%2F%2Fyt1s.ltd%2Fzh-tw165xjh%2Fyoutube-to-mp3&lang=zh-tw165xjh" type="audio/mpeg"> <!-- 將 '音效.mp3' 替換為你的音效文件的URL -->
+        <source src="https://dl13.genyoutube.online/mates/en/download?url=ZTREjvNyOeTfNikCjBwoU2yxx66jDt22Fr9pUGEX3O8E2VR9VlQVGAdvpHi34jr4qfNH8MfarUxFrrlMSU1dS2qLG0IAg6lYouegxRkzpHC/OVKP24aV129qaYDGzAa9Fr9pUGEX3O8E2VR9VlQVGAdvpHi34jr4hEGKz1bYrMMVff%2BkF3fZMHMPK222XLxv1hDYU6a26Mt1RgpLBiZiBoCtmIZ%2BB%2BQA/zM7zG1cfGVpM/OUDx5xLHLQuBeughWIKhd26nNKhn9zQZtwKkCm2UD9SYGcuv25ufPpbAHfcYnytYThC3AcnxmZaGDBwNIHGSyqVeZSTO8%3D" type="audio/mpeg"> <!-- 將 '音效.mp3' 替換為你的音效文件的URL -->
         Your browser does not support the audio element.
     </audio>
     <div class="container">
