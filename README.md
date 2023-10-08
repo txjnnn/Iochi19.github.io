@@ -12,7 +12,7 @@
         }
 
         header {
-            background-color: #333;
+            background-color: #7FFFD4;
             color: #fff;
             text-align: center;
             padding: 20px;
@@ -51,20 +51,19 @@
 </head>
 <body>
     <header>
-        <h1>歡迎來到我的網站</h1>
+        <h1>歡迎來到我的自我介紹網站</h1>
     </header>
 
     <div class="container">
         <div class="left-image">
-            <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="">
+            <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
         </div>
         <div class="right-content">
             <h2>關於我</h2>
-            <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球<br></p>
+            <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球</p>
+
             <h2>我的經歷</h2>
-        <p>CSO有龍炮<br>國二數學考過100分<br>從第七階樓梯跳下來撞到頭縫五針</p>
-    </div>
-    
+            <p>CSO有龍炮<br>國二數學考過100分<br>從第七階樓梯跳下來撞到頭縫五針</p>
 
             <h2>聯絡我</h2>
             <p>如果你想與我聯絡，請使用以下方式：</p>
