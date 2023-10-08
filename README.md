@@ -11,7 +11,7 @@
             padding: 0;
         }
 <audio controls loop autoplay>
-        <source src="https://youtu.be/6yp8fEU00aM?si=JOoAvJtHlx2vLrU7" type="audio/mpeg">
+        <source src="https://nearbypro.www-2048.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6yp8fEU00aM%3Fsi%3D--o1dtj12hXDQPuM&title=SWIN+-+%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E%E3%80%8E%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E+baby+%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E+baby%E3%80%8F%E3%80%90%E5%8B%95%E6%85%8B%E6%AD%8C%E8%A9%9ELyrics%E3%80%91&id=6yp8fEU00aM&ext=mp3&totalSize=3562128&note=128k&format=128k&dd=1&ref=https%3A%2F%2Fyt1s.ltd%2Fzh-tw165xjh%2Fyoutube-to-mp3&lang=zh-tw165xjh" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
         header {
