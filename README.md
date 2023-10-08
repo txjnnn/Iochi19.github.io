@@ -63,9 +63,12 @@
             <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球<br></p>
 
             <h2>我的作品</h2>
-            <p>"浪費一天連假不打code的下場"</p>
-            <img src="https://lurl.cc/ogKZE" alt="">
-            
+<div class="portfolio">
+    <div class="portfolio-item">
+        <img src="https://lurl.cc/ogKZE" alt="作品1">
+        <p>浪費一天連假不打code的下場</p>
+    </div>
+    
 
             <h2>聯絡我</h2>
             <p>如果你想與我聯絡，請使用以下方式：</p>
