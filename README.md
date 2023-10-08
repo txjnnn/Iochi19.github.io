@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>自我介紹網站</title>
+    <title>我的自我介紹網站</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -51,26 +51,26 @@
 </head>
 <body>
     <header>
-        <h1>歡迎來到我的自我介紹網站</h1>
+        <h1>歡迎來到我的網站</h1>
     </header>
 
     <div class="container">
         <div class="left-image">
-            <img src="left-image.jpg" alt="左側圖片">
+            <img src="[left-image.jpg](https://i01piccdn.sogoucdn.com/361638c1196687e4)" alt="">
         </div>
         <div class="right-content">
             <h2>關於我</h2>
-            <p>你的自我介紹文字在這裡。你可以講述你的背景、技能、興趣和目標。</p>
+            <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球<br></p>
 
             <h2>我的作品</h2>
-            <p>這裡可以展示你的作品、專案或經驗。你可以使用圖片和文字來描述它們。</p>
+            <p><img src="[圖片的URL](https://cdn.discordapp.com/attachments/1155420612714565682/1160601409440452618/image.png?ex=6535414a&is=6522cc4a&hm=671345dd73752ce00944c7432de6bb943e295c8e87fb3e286634358627e8cdd3&)" alt="浪費一天連假不打code的下場"></p>
 
             <h2>聯絡我</h2>
             <p>如果你想與我聯絡，請使用以下方式：</p>
             <ul>
-                <li>Email: your.email@example.com</li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></li>
-                <li>Twitter: <a href="https://twitter.com/yourusername">Twitter Profile</a></li>
+                <li>Email: danielz88920@gmail.com</li>
+                <li>IG: <a href="[https://www.linkedin.com/in/yourprofile](https://www.instagram.com/anthonyz889/)">LinkedIn Profile</a></li>
+                
             </ul>
         </div>
     </div>
