@@ -69,7 +69,7 @@
             <p>如果你想與我聯絡，請使用以下方式：</p>
             <ul>
                 <li>Email: danielz88920@gmail.com</li>
-                <li>IG: <a href="[https://www.linkedin.com/in/yourprofile](https://www.instagram.com/anthonyz889/)">LinkedIn Profile</a></li>
+                <li>IG: <a href="https://www.instagram.com/anthonyz889/">LinkedIn Profile</a></li>
                 
             </ul>
         </div>
