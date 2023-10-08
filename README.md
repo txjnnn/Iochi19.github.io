@@ -62,11 +62,10 @@
             <h2>關於我</h2>
             <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球<br></p>
 
-            <h2>我的作品</h2>
-<div class="portfolio">
-    <div class="portfolio-item">
-        <img src="https://lurl.cc/ogKZE" alt="">
-        <p>浪費一天連假不打code的下場</p>
+            <h2>我的經歷</h2>
+
+        
+        <p>CSO有龍炮<br>二命草神<br>可以把手指變成衝鋒槍<br>國二數學考過100分<br>從第七階樓梯跳下來撞到頭縫五針</p>
     </div>
     
 
