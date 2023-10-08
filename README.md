@@ -56,14 +56,14 @@
 
     <div class="container">
         <div class="left-image">
-            <img src="[left-image.jpg](https://i01piccdn.sogoucdn.com/361638c1196687e4)" alt="">
+            <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="">
         </div>
         <div class="right-content">
             <h2>關於我</h2>
             <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球<br></p>
 
             <h2>我的作品</h2>
-            <p><img src="[圖片的URL](https://cdn.discordapp.com/attachments/1155420612714565682/1160601409440452618/image.png?ex=6535414a&is=6522cc4a&hm=671345dd73752ce00944c7432de6bb943e295c8e87fb3e286634358627e8cdd3&)" alt="浪費一天連假不打code的下場"></p>
+            <p><img src="https://lurl.cc/NCmop" alt="浪費一天連假不打code的下場"></p>
 
             <h2>聯絡我</h2>
             <p>如果你想與我聯絡，請使用以下方式：</p>
