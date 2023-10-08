@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #7FFFD4;
+            background-color: #F0F8FF;
             margin: 0;
             padding: 0;
         }
