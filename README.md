@@ -71,7 +71,6 @@
          
 <header id="myHeader">
         <!-- Your header content here -->
-    </header>
     <p class="flip">請點我</p>
 
  
