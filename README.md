@@ -84,11 +84,6 @@ display:none;
 <p class="flip">請點這裡</p>
  
     </header>
- <!-- 嵌入音效 -->
-    <audio autoplay controls>
-        <source src="https://dl13.genyoutube.online/mates/en/download?url=ZTREjvNyOeTfNikCjBwoU2yxx66jDt22Fr9pUGEX3O8E2VR9VlQVGAdvpHi34jr4qfNH8MfarUxFrrlMSU1dS2qLG0IAg6lYouegxRkzpHC/OVKP24aV129qaYDGzAa9Fr9pUGEX3O8E2VR9VlQVGAdvpHi34jr4hEGKz1bYrMMVff%2BkF3fZMHMPK222XLxv1hDYU6a26Mt1RgpLBiZiBoCtmIZ%2BB%2BQA/zM7zG1cfGVpM/OUDx5xLHLQuBeughWIKhd26nNKhn9zQZtwKkCm2UD9SYGcuv25ufPpbAHfcYnytYThC3AcnxmZaGDBwNIHGSyqVeZSTO8%3D" type="audio/mpeg"> <!-- 將 '音效.mp3' 替換為你的音效文件的URL -->
-        Your browser does not support the audio element.
-    </audio>
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
