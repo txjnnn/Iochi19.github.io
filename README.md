@@ -75,7 +75,7 @@ display:none;
 </head>
 <body>
     <header>
-        <h1>歡迎來到我的自我介紹網站</h1>
+        
          
 <div class="panel">
 <p>歡迎來到我的自我介紹網站</p>
