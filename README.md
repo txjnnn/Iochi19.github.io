@@ -3,34 +3,23 @@
    
     <html>
 <head>
-    <meta charset="UTF-8">
+       <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <script src="/jquery/jquery-1.11.1.min.js"></script>
-<script type="text/javascript"> 
-$(document).ready(function(){
-$(".flip").click(function(){
-    $(".panel").slideToggle("slow");
-  });
-});
-   </script>
-<style type="text/css"> 
-div.panel,p.flip
-{
-margin:0px;
-padding:5px;
-text-align:center;
-background:#7FFFD4;
-border:solid 1px #c3c3c3;
-}
-div.panel
-{
-height:120px;
-display:none;
-}
+    <script src="/jquery/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript"> 
+        $(document).ready(function(){
+            $(".flip").click(function(){
+                $("header#myHeader").fadeOut("slow");
+            });
+        });
+    </script>
+    <style type="text/css"> 
+        /* Your existing CSS styles here */
 
-
-       
-    
+        /* Add a CSS rule to hide the header by default */
+        header#myHeader {
+            display: block;
+        }
    
         body {
             font-family: Arial, sans-serif;
@@ -79,16 +68,12 @@ display:none;
 
 </head>
 <body>
-    <header>         
+         
+<header id="myHeader">
+        <!-- Your header content here -->
+    </header>
+    <p class="flip">請點我</p>
 
-
-
- 
-<div class="panel">
-<p>歡迎來到我的自我介紹</p>
-</div>
- 
-<p class="flip">請點我</p>
  
     </header>
     <div class="container">
