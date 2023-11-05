@@ -10,13 +10,14 @@
   });
 });
         </script>
-        <style type="text/css"> 
+        
+    <style type="text/css"> 
 div.panel,p.flip
 {
 margin:0px;
 padding:5px;
 text-align:center;
-background:#F0F8FF;
+background:#7FFFD4;
 border:solid 1px #c3c3c3;
 }
 div.panel
