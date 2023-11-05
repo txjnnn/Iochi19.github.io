@@ -1,18 +1,20 @@
- <!DOCTYPE html>
+
 <html lang="en">
    
     <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="/jquery/jquery-1.11.1.min.js"></script>
-    <script type="text/javascript"> 
-    $(document).ready(function(){
-    $(".flip").click(function(){
-    $(".panel").slideDown("slow");
+   <script src="/jquery/jquery-1.11.1.min.js"></script>
+    <script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeIn();
+    $("#div2").fadeIn("slow");
+    $("#div3").fadeIn(3000);
   });
 });
-        </script>
+</script>
         
     <style type="text/css"> 
 div.panel,p.flip
