@@ -9,9 +9,7 @@
     <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("#div1").fadeIn();
-    $("#div2").fadeIn("slow");
-    $("#div3").fadeIn(3000);
+    $("#div").fadeIn(3000);
   });
 });
 </script>
@@ -88,7 +86,7 @@ display:none;
  
 <button>請點我</button>
 <br><br>
-<p>歡迎來到我的自我介紹網站</p>
+<div id="div1" style="歡迎來到我的自我介紹"></div>
 
  
     </header>
