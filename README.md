@@ -61,9 +61,6 @@
          
 <header id="myHeader">
       <h1>歡迎來到我的自我介紹</h1>
-    
-
- 
     </header>
     <p class="flip">請點我</p>
     <div class="container">
@@ -85,7 +82,7 @@
                 
             </ul>
               
-        </div>
+     
     </div>
 </body>
 </html>
