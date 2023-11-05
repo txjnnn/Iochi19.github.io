@@ -14,13 +14,6 @@
         });
     </script>
     <style type="text/css"> 
-        /* Your existing CSS styles here */
-
-        /* Add a CSS rule to hide the header by default */
-        header#myHeader {
-            display: block;
-        }
-   
         body {
             font-family: Arial, sans-serif;
             background-color: #F0F8FF;
@@ -28,26 +21,23 @@
             padding: 0;
         }
 
-        header {
+        header#myHeader {
             background-color: #7FFFD4;
             color: #fff;
             text-align: center;
             padding: 20px;
         }
 
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
+        /* 默认显示标题 */
+        header#myHeader {
+            display: block;
         }
 
+        .container {
+            /* 其他样式规则 */
+        }
+
+       
         .left-image, .right-content {
             flex: 1;
             padding: 10px;
@@ -71,10 +61,11 @@
          
 <header id="myHeader">
       <h1>歡迎來到我的自我介紹</h1>
-    <p class="flip">請點我</p>
+    
 
  
     </header>
+    <p class="flip">請點我</p>
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
