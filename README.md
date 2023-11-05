@@ -3,7 +3,7 @@
    
     <html>
 <head>
-       <meta charset="UTF-8">
+      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="/jquery/jquery-1.11.1.min.js"></script>
     <script type="text/javascript"> 
@@ -70,7 +70,7 @@
 <body>
          
 <header id="myHeader">
-        <h1>歡迎來到我的自我介紹</h1>
+      <h1>歡迎來到我的自我介紹</h1>
     <p class="flip">請點我</p>
 
  
