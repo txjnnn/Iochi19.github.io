@@ -70,7 +70,7 @@
 <body>
          
 <header id="myHeader">
-        <!-- Your header content here -->
+        <p>歡迎來到我的自我介紹</p>
     <p class="flip">請點我</p>
 
  
