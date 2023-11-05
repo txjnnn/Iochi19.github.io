@@ -6,7 +6,6 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('https://media.tenor.com/SJpYcRM3Q6kAAAAC/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.gif');
             background-color: #F0F8FF;
             margin: 0;
             padding: 0;
