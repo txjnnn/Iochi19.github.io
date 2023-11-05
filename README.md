@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="/jquery/jquery-1.11.1.min.js"></script>
     <script type="text/javascript"> 
-        $(document).ready(function(){
-            $(".flip").click(function(){
+       $(document).ready(function(){
+            $("#changeColorBtn").click(function(){
                 // 添加特色效果，例如改变标题颜色
-                $("header#myHeader h1").css("color", "red"); // 修改标题颜色为红色
+                $("header#myHeader h1").css("color", "red !important"); // 修改标题颜色为红色
             });
         });
     </script>
