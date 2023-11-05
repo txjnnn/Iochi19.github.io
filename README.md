@@ -63,7 +63,7 @@
 <header id="myHeader">
       <h1>歡迎來到我的自我介紹</h1>
     </header>
-    <p class="flip">請點我</p>
+   <button id="changeColorBtn">請點我</button>
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
