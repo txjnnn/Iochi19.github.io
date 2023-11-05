@@ -85,7 +85,6 @@ display:none;
 
  
 <button>請點我</button>
-<br><br>
 <div id="div1" style=<p>歡迎來到我的自我介紹</p></div>
 
  
