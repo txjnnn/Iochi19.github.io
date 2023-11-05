@@ -9,6 +9,7 @@
     $(".panel").slideDown("slow");
   });
 });
+        </script>
         <style type="text/css"> 
 div.panel,p.flip
 {
@@ -23,10 +24,10 @@ div.panel
 height:120px;
 display:none;
 }
-</style>
-        </script>
+
+       
     
-    <style>
+   
         body {
             font-family: Arial, sans-serif;
             background-color: #F0F8FF;
@@ -74,9 +75,7 @@ display:none;
 
 </head>
 <body>
-    <header>
-        
-         
+    <header>         
 <div class="panel">
 <p>歡迎來到我的自我介紹網站</p>
 </div>
