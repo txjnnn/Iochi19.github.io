@@ -6,21 +6,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <script src="/jquery/jquery-1.11.1.min.js"></script>
-    <script>
+<script type="text/javascript"> 
 $(document).ready(function(){
-  $("button").click(function(){
-    $("#div").fadeIn(3000);
+$(".flip").click(function(){
+    $(".panel").slideToggle("slow");
   });
 });
-</script>
-        
-    <style type="text/css"> 
+   </script>
+<style type="text/css"> 
 div.panel,p.flip
 {
 margin:0px;
 padding:5px;
 text-align:center;
-background:#7FFFD4;
+background:#e5eecc;
 border:solid 1px #c3c3c3;
 }
 div.panel
@@ -28,6 +27,7 @@ div.panel
 height:120px;
 display:none;
 }
+
 
        
     
@@ -84,9 +84,11 @@ display:none;
 
 
  
-<button>請點我</button>
-<div id="div1" style="歡迎來到我的自我介紹"</div>
-
+<div class="panel">
+<p>歡迎來到我的自我介紹</p>
+</div>
+ 
+<p class="flip">請點我</p>
  
     </header>
     <div class="container">
