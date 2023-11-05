@@ -8,9 +8,10 @@
     <script src="/jquery/jquery-1.11.1.min.js"></script>
     <script type="text/javascript"> 
         $(document).ready(function(){
-             $(this).css({
-                "color": "red",      
-                "font-size": "24px" 
+            $(".flip").click(function(){
+                // 添加特色效果，例如改变标题颜色
+                $("header#myHeader h1").css("color", "red"); // 修改标题颜色为红色
+            });
         });
     </script>
     <style type="text/css"> 
@@ -62,7 +63,7 @@
 <header id="myHeader">
       <h1>歡迎來到我的自我介紹</h1>
     </header>
-    
+    <p class="flip">請點我</p>
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
