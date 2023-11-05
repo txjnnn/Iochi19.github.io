@@ -25,7 +25,7 @@ display:none;
 }
 </style>
         </script>
-    <title>我的自我介紹網站</title>
+    
     <style>
         body {
             font-family: Arial, sans-serif;
