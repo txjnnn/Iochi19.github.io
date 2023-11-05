@@ -82,11 +82,14 @@ display:none;
 </head>
 <body>
     <header>         
-<div class="panel">
-<p>歡迎來到我的自我介紹網站</p>
-</div>
+
+
+
  
-<p class="flip">請點這裡</p>
+<button>請點我</button>
+<br><br>
+<p>歡迎來到我的自我介紹網站</p>
+
  
     </header>
     <div class="container">
