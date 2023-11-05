@@ -67,7 +67,7 @@
     <div class="container">
         <div class="left-image">
             <img src="https://i01piccdn.sogoucdn.com/361638c1196687e4" alt="左側圖片">
-        
+        </div>
         <div class="right-content">
             <h2>關於我</h2>
             <p>資工二甲 陳宥旭 <br>程式練習生<br>練習時長兩年半<br>喜歡唱、跳、RAP、籃球</p>
