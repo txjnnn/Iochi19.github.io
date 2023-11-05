@@ -10,7 +10,7 @@
        $(document).ready(function(){
             $("#changeColorBtn").click(function(){
                 // 添加特色效果，例如改变标题颜色
-                $("header#myHeader h1").css("color", "cyan"); // 修改标题颜色为红色
+                $("header#myHeader h1").css("color", "green"); // 修改标题颜色为红色
             });
         });
     </script>
