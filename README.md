@@ -2,6 +2,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/jquery/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript"> 
+    $(document).ready(function(){
+    $(".flip").click(function(){
+    $(".panel").slideDown("slow");
+  });
+});
+        <style type="text/css"> 
+div.panel,p.flip
+{
+margin:0px;
+padding:5px;
+text-align:center;
+background:#e5eecc;
+border:solid 1px #c3c3c3;
+}
+div.panel
+{
+height:120px;
+display:none;
+}
+</style>
+        </script>
     <title>我的自我介紹網站</title>
     <style>
         body {
@@ -53,6 +76,13 @@
 <body>
     <header>
         <h1>歡迎來到我的自我介紹網站</h1>
+         
+<div class="panel">
+<p>歡迎來到我的自我介紹網站</p>
+</div>
+ 
+<p class="flip">請點這裡</p>
+ 
     </header>
  <!-- 嵌入音效 -->
     <audio autoplay controls>
