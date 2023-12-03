@@ -10,11 +10,16 @@
             display: block;
             margin-bottom: 20px;
         }
+        /* 改變 "CarHub" 的字體和顏色 */
+        .carhub {
+            font-family: Arial, sans-serif;
+            color: blue;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>歡迎來到CarHub</h1>
+        <h1>歡迎來到<span class="carhub">CarHub</span></h1>
     </header>
 
     <main>
