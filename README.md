@@ -1,4 +1,3 @@
-
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
 </head>
 <body>
     <header>
-        <h1>歡迎來到車輛介紹網站</h1>
+        <h1>歡迎來到CarHub</h1>
     </header>
 
     <main>
